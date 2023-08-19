@@ -68,10 +68,8 @@ class _OnBoarding2State extends State<OnBoarding2> {
                         borderRadius: BorderRadius.circular(
                             1), // Define o raio de arredondamento dos cantos
                       ),
-                      backgroundColor: Colors
-                          .black, // Define a cor de fundo do botão como preto
-                      foregroundColor: Colors
-                          .white, // Define a cor do texto (e ícones) do botão como branco
+                      backgroundColor: Colors.black,
+                      foregroundColor: Colors.white,
                     ),
                     onPressed: () {},
                     child: const Text('Create a free account'),

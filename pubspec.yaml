@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_fonts: ^5.1.0
 
 dev_dependencies:
   flutter_test:
@@ -28,6 +29,9 @@ flutter:
     - family: Raleway
       fonts:
         - asset: assets/fonts/Raleway-VariableFont_wght.ttf
+    - family: Bookman
+      fonts:
+        - asset: assets/fonts/BOOKmanOpti-Light.otf
 
   assets:
     - assets/images/
